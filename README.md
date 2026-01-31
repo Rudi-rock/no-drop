@@ -74,3 +74,9 @@ This allows educators to intervene early through academic counseling, workload a
 ## Author
 Rudra Pratap Singh  
 B.Tech CSE — SRM Kattankulathur
+
+## Running the Project
+pip install -r requirements.txt
+python src/risk_engine.py
+
+
